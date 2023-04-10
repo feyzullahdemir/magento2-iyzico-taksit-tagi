@@ -20,6 +20,7 @@ install plugin -> https://github.com/iyzico/iyzipay-magento2/tree/2.2.3+
 * Send the repository files into the Iyzipay folder
 * bin/magento module:enable iyzicotaksit_ProductTabs --clear-static-content
 * bin/magento setup:upgrade
+6. ProductTabs/view/frontend/templates/config.php Api key , Secret key , Base URl enter
 <img width="1435" alt="Screen Shot 2023-04-10 at 10 17 33 AM" src="https://user-images.githubusercontent.com/101548542/230848718-d98dbc24-dda1-4381-a01d-3347d9f4685d.png">
 
 
